@@ -1,5 +1,3 @@
-Sigur! Iată varianta completă în limba engleză a fișierului `README.md`:
-
 # C++ File Operations and Automation Tools
 
 This repository contains two utilities written in C++: **`cfile`** and **`crun`**. These tools allow you to perform file operations and automate the execution of commands with ease.

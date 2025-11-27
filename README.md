@@ -130,6 +130,10 @@ This will write `"This is an example text."` into `file.txt`.
 
 ---
 
+## Build
+`g++ -O3 -march=native -flto -Wall -Wextra -Wshadow -std=c++20 cfile.cpp -o cfile`
+`g++ -O3 -march=native -flto -Wall -Wextra -Wshadow -std=c++20 crun.cpp -o crun`
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
